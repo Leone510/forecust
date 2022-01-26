@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/forecust/static/css/main.9c901787.css",
+    "main.js": "/forecust/static/js/main.86c619ba.js",
+    "index.html": "/forecust/index.html",
+    "main.9c901787.css.map": "/forecust/static/css/main.9c901787.css.map",
+    "main.86c619ba.js.map": "/forecust/static/js/main.86c619ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c901787.css",
+    "static/js/main.86c619ba.js"
+  ]
+}
