@@ -22,8 +22,8 @@ export const HeaderForecast = ({width}) => {
 
                   <LogoForecust>
 
-                     <LogoImg className="logoImg">
-                        <StyledImage src='https://raw.githubusercontent.com/Leone510/cutaway/gh-pages/img/Weather-icon.png' alt="Weather-icon" />
+                     <LogoImg>
+                        <StyledImage src='https://raw.githubusercontent.com/Leone510/spa-cutaway/gh-pages/img/Weather-icon.png' alt="Weather-icon" />
                      </LogoImg>
 
                      <Title>
