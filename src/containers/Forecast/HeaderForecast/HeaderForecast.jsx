@@ -23,7 +23,10 @@ export const HeaderForecast = ({width}) => {
                   <LogoForecust>
 
                      <LogoImg>
-                        <StyledImage src='https://raw.githubusercontent.com/Leone510/spa-cutaway/gh-pages/img/Weather-icon.png' alt="Weather-icon" />
+                        <StyledImage 
+                           src={process.env.PUBLIC_URL + '/img/Weather-icon.png'} 
+                           alt="logotype" 
+                        />
                      </LogoImg>
 
                      <Title>
