@@ -1,9 +1,9 @@
 import { StyledFooterLink } from "./StyledFooterLink"
 
-export const FooterLink = () => {
+export const FooterLink = (props) => {
 
    return (
-      <StyledFooterLink href="leone510.github.io/cutaway" target="blank">
+      <StyledFooterLink {...props}>
          Leone510
       </StyledFooterLink>
    )
