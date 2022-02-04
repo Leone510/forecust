@@ -35,7 +35,7 @@ export const HeaderForecast = ({width}) => {
                </Flex>
 
                <Flex justify="flex-end">
-                     <span><b>Exit </b></span> <BackBtn/>
+                     <span style={{marginRight: "10px"}}><b>To cutaway</b></span> <BackBtn/>
                </Flex>
 
             </ContentWrapper>
